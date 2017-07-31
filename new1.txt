@@ -1,4 +1,8 @@
 欢迎来到守望先锋。
 overwatch
 有基佬开我裤链
+<<<<<<<HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>>feature1
